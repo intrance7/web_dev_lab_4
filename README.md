@@ -4,6 +4,8 @@
 **Tanishq Sethi**
 
 ---
+![Alt Text](images/example1.png)
+![Alt Text](images/example2.png)
 
 ## 📘 Overview
 This project is a JavaScript-based interactive quiz that runs inside the **browser console**.
