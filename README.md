@@ -85,6 +85,9 @@ These are not required for the assignment, but you can add them:
 | Input normalization | ✅ |
 | Final score output | ✅ |
 
+
+"""Thanks"""
+
 ---
 
 ## 📌 Note  
